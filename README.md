@@ -11,3 +11,16 @@ tar -xf palm/palm-alpha119.tar.gz
 ```bash
 mkdir data preprocessed results
 ```
+
+
+## Contributors
+
+- Caroline Hartley @carolinehartley
+
+- Coen Zandvoort @CoenZandvoort
+
+- Till Rech @tillrecharite
+
+- Antoine Honoré @antoinehonore
+
+The repo was previously hosted at https://github.com/BarKetPlace/neored_vs
